@@ -10,6 +10,7 @@ class Evolution:
         self.ga_instance = None
         
     def _fitness_func(self, ga_instance, solution, solution_idx):
+        # [PyGAD documentation] - fitness must be maximization function | https://pygad.readthedocs.io/en/latest/README_pygad_ReadTheDocs.html#preparing-the-fitness-func-parameter
         cheetah = self.cheetah_lab.get_cheetah_behavior(solution)
         score = self.arena.fight(cheetah)
         return score

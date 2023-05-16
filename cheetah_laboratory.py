@@ -26,6 +26,7 @@ class ClassicNNCheetahLab(CheetahLab):
         return total_count
     
     def get_cheetah_behavior(self, genom) -> callable:
+        """Returns a function that outputs the neural netowork output based on initial genom"""
         net = self._genom_to_net(genom)
         behavior = lambda observation: self._net_behaviour(net, observation)
         return behavior
@@ -46,6 +47,7 @@ class ClassicNNCheetahLab(CheetahLab):
         return 1 / (1 + np.e ** -xi)
 
     def _net_behaviour(self, net, observation):
+        # Calculates the output of neural network
         hidden = observation[np.newaxis, :]
         for i, layer in enumerate(net):
             hidden_extended = np.hstack((hidden, np.ones((hidden.shape[0], 1))))
