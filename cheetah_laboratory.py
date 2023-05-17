@@ -13,8 +13,9 @@ class CheetahLab(ABC):
         pass
     
 class ClassicNNCheetahLab(CheetahLab):
-    def __init__(self, nn_architecture: list):
+    def __init__(self, nn_architecture: list, activation_function=None):
         self.nn_architecture = nn_architecture
+        self.activation_function = self._logsig if activation_function is None else activation_function
     
     def get_genom_length(self) -> int:
         total_count = 0
@@ -44,7 +45,11 @@ class ClassicNNCheetahLab(CheetahLab):
     
     @staticmethod
     def _logsig(xi):
-        return 1 / (1 + np.e ** -xi)
+        # Problem with too big values
+        xi = np.float64(xi)
+        cc = np.clip(xi, -88.72, 88.72) #   for float64, use: (-709.78, 709.78)
+        # rewrite the formula>> 1 / (1+ exp(-x)) = exp(x) / (1+exp(x))
+        return np.exp(cc) / (1 +  np.exp(cc)) # old one: 1 / (1 + np.exp(-xi))
 
     def _net_behaviour(self, net, observation):
         # Calculates the output of neural network
@@ -54,6 +59,6 @@ class ClassicNNCheetahLab(CheetahLab):
             if i == len(net) - 1:
                 hidden = np.tanh(hidden_extended @ layer)
             else:
-                hidden = self._logsig(hidden_extended @ layer)
+                hidden = self.activation_function(hidden_extended @ layer)
         return hidden
     

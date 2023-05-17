@@ -1,0 +1,238 @@
+Wed May 17 14:12:07 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 14:12:07 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 14:16:13 2023
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Wed May 17 14:16:13 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 1. The simulation is unstable. Time = 0.0100.
+
+Wed May 17 14:16:13 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 1. The simulation is unstable. Time = 0.0100.
+
+Wed May 17 14:16:13 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.5900.
+
+Wed May 17 14:16:13 2023
+WARNING: Inertia matrix is too close to singular at DOF 6. Check model. Time = 0.0200.
+
+Wed May 17 14:41:42 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.120Wed May 17 14:41:42 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.1200.
+
+Wed May 17 14:41:42 2023
+WARNING: Inertia matrix is too close to singular at DOF 4. Check model. Time = 0.2200.
+
+Wed May 17 14:41:42 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 2.8700.
+
+Wed May 17 14:41:42 2023
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Wed May 17 14:41:42 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 0. The simulation is unstable. Time = 2.9400.
+
+Wed May 17 14:41:42 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 2.9500.
+
+Wed May 17 14:49:02 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.1000.
+
+Wed May 17 14:49:02 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.1000.
+
+Wed May 17 14:49:32 2023
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Wed May 17 14:49:32 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 1.0400.
+
+Wed May 17 14:49:32 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 1.0400.
+
+Wed May 17 14:51:20 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 7. The simulation is unstable. Time = 0.0200.
+
+Wed May 17 14:51:20 2023
+WARNING: Inertia matrix is too close to singular at DOF 7. Check model. Time = 1.1600.
+
+Wed May 17 14:51:20 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 1.1500.
+
+Wed May 17 14:51:20 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 0.0600.
+
+Wed May 17 14:51:20 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 0.0600.
+
+Wed May 17 14:52:55 2023
+WARNING: Inertia matrix is too close to singular at DOF 0. Check model. Time = 0.0000.
+
+Wed May 17 14:52:55 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 1.1000.
+
+Wed May 17 14:54:12 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.5100.
+
+Wed May 17 14:54:12 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.5100.
+
+Wed May 17 14:54:12 2023
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Wed May 17 14:58:33 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 1.0600.
+
+Wed May 17 14:58:33 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 1.0600.
+
+Wed May 17 14:58:33 2023
+WARNING: Inertia matrix is too close to singular at DOF 8. Check model. Time = 0.0000.
+
+Wed May 17 14:59:37 2023
+WARNING: Inertia matrix is too close to singular at DOF 1. Check model. Time = 0.6100.
+
+Wed May 17 14:59:37 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 2.7400.
+
+Wed May 17 14:59:37 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 2.7400.
+
+Wed May 17 15:01:23 2023
+WARNING: Inertia matrix is too close to singular at DOF 3. Check model. Time = 1.3900.
+
+Wed May 17 15:05:13 2023
+WARNING: Inertia matrix is too close to singular at DOF 6. Check model. Time = 2.3800.
+
+Wed May 17 15:05:13 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 2.3800.
+
+Wed May 17 15:06:34 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.3500.
+
+Wed May 17 15:06:34 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.3500.
+
+Wed May 17 15:06:51 2023
+WARNING: Inertia matrix is too close to singular at DOF 1. Check model. Time = 2.4200.
+
+Wed May 17 15:06:51 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 3.9200.
+
+Wed May 17 15:09:12 2023
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Wed May 17 15:09:12 2023
+WARNING: Inertia matrix is too close to singular at DOF 4. Check model. Time = 0.0300.
+
+Wed May 17 15:09:12 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 2.0100.
+
+Wed May 17 15:09:12 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 2.0100.
+
+Wed May 17 15:09:12 2023
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Wed May 17 15:09:12 2023
+WARNING: Inertia matrix is too close to singular at DOF 2. Check model. Time = 0.0000.
+
+Wed May 17 15:09:12 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 2.4300.
+
+Wed May 17 15:10:45 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.4500.
+
+Wed May 17 15:10:45 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:45 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:45 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:45 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:45 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:45 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:45 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:45 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:46 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:48 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:10:48 2023
+WARNING: Linesearch objective is not convex
+
+Wed May 17 15:11:35 2023
+WARNING: Inertia matrix is too close to singular at DOF 6. Check model. Time = 0.5400.
+
+Wed May 17 15:11:35 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 0.8500.
+
+Wed May 17 15:11:35 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 0.8500.
+
+Wed May 17 15:11:35 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 0.8500.
+
+Wed May 17 15:11:35 2023
+WARNING: Inertia matrix is too close to singular at DOF 3. Check model. Time = 0.0400.
+
+Wed May 17 15:12:02 2023
+WARNING: Inertia matrix is too close to singular at DOF 5. Check model. Time = 0.2100.
+
+Wed May 17 15:12:02 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 0. The simulation is unstable. Time = 0.9400.
+
