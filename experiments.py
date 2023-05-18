@@ -14,7 +14,6 @@ nn_width = 8
 nn_hidden_layers = [nn_width for _ in range(nn_depth)]
 arena = Arena()
 cheetah_lab = ClassicNNCheetahLab([17, *nn_hidden_layers, 6])
-evolution = Evolution(cheetah_lab, arena)
 
 num_parents_mating = 17
 parent_selection_type = 'tournament'
@@ -39,8 +38,12 @@ parameters = {
     'keep_elitism': keep_elitism,
 }
 
+evolution = Evolution(cheetah_lab, arena)
 evolution.run_evolution(parameters)
 evolution.plot_fitness()
 
 behavior = evolution.get_best_behavior()
-print(arena.fight(behavior, max_steps=100, render='best', repetitions=1))
+print(arena.fight(behavior, max_steps=200, render='best8', repetitions=1))
+
+
+
